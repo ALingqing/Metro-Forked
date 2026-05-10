@@ -1,0 +1,26 @@
+# Maven output
+target/
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+*.classpath
+*.project
+
+# OS files
+Thumbs.db
+.DS_Store
+*.swp
+*~
+
+# Maven
+dependency-reduced-pom.xml
