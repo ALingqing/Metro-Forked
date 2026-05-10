@@ -4,11 +4,11 @@ English | [简体中文](README.md)
 
 ![bstats](https://bstats.org/signatures/bukkit/Metro.svg)
 
-## Overview
+##概述
 
 Metro is a transit system plugin inspired by the Niú nǎn xiǎo zhèn server, allowing administrators to create automated metro line networks and provide players with a convenient riding experience.
 
-This fork (Metro-Forked) adds significant enhancements to the original [CubeX-MC/Metro](https://github.com/CubeX-MC/Metro) while maintaining compatibility with MC 1.16.5+ and Java 8+ servers.
+This fork (Metro-Forked) Developed and maintained by A-Qing and others adds significant enhancements to the original [CubeX-MC/Metro](https://github.com/CubeX-MC/Metro) while maintaining compatibility with MC 1.16.5+ and Java 8+ servers.
 
 ### New Features
 
@@ -26,7 +26,7 @@ This fork adds the following features on top of the original:
 - **Line**: A metro line containing an ordered list of stops that defines the train's path
 - **Stop**: A metro station defined as a 3D region by two diagonal corner points
 - **StopPoint**: A powered rail within a stop area where players right-click to board
-- **Transfer**: Players can transfer between lines at stops
+- **转移**: Players can transfer between lines at stops
 
 ## Admin Commands (Main Command: `/m`)
 
